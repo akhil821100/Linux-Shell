@@ -1,0 +1,4 @@
+
+1  ls
+2  echo cool
+3  history
